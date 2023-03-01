@@ -153,15 +153,15 @@
 [
     {
         "id": 1,
-        "name": "For dog bones!",
-        "club_phone_number": "89211008888",
-        "club_email": "fordogbones@gmail.com"
+        "name": "dog's boner!",
+        "phone_number": "89999999999",
+        "email": "dogboner@yandex.ru"
     },
     {
         "id": 2,
-        "name": "fairytails",
-        "club_phone_number": "88918604305",
-        "club_email": "fairytails@yandex.ru"
+        "name": "Razvedka s vami pozani",
+        "club_phone_number": "8898888888",
+        "club_email": "razvedka@yandex.ru"
     }
 ]
 ```
@@ -1626,7 +1626,7 @@ medals = (
     },
     {
         "id": 2,
-        "grfirstade1": 8,
+        "first": 8,
         "second": 8,
         "third": 6,
         "sum": 22,
